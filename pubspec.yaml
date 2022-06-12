@@ -12,6 +12,10 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.5
+  flutter_map: ^1.0.0
+  geojson: ^1.0.0
+  get_it: ^7.2.0
+  latlong2: ^0.8.1
 
 dev_dependencies:
   flutter_test:
@@ -22,3 +26,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+    - assets/geojson/
